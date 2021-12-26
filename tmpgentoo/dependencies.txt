@@ -1,0 +1,20 @@
+app-editors/neovim
+
+#this lets us have full screen
+media-sound/alsa-utils
+
+#x
+#all this stuff is necessary to get startx working?
+x11-libs/libX11
+x11-base/xorg-server
+x11-libs/libXrandr
+x11-libs/libXinerama
+x11-libs/libXft
+x11-apps/xrdb
+x11-apps/xrandr
+x11-misc/unclutter
+x11-misc/xclip
+x11-misc/pcmanfm
+
+#fonts
+media-fonts/fontawesome
