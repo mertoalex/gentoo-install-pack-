@@ -1,17 +1,17 @@
 # gentoo-install-pack?
 
-##mounta
+## mounta
 
 mounts proc dev and sys
 
-##connect
+## connect
 
 chroots
 
-##tmpgentoo
+## tmpgentoo
 
 some program names and ready to use make.conf file
 
-##rootfs
+## rootfs
 
 for mount gentoo disk
